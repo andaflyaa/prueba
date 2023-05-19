@@ -66,9 +66,7 @@
                   <i class="fas fa-circle"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                   Repudiandae dicta harum eum cumque ipsum quod corrupti 
-                   molestias ratione rem debitis 
+                AAAAAAAAAAAAAAAAAAAAAA
 
                 </p>
                 <a href="#" class="btn cta-btn">Nosotros</a>
